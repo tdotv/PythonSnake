@@ -2,4 +2,4 @@
 
 ## Weather.py
 
-!!!It requires pyowm and your api key
+Requires pyowm and your api key
